@@ -33,5 +33,12 @@
             "afterForbiddenPageId": "9f9af3b0-fded-4d4d-854b-31e28e8d9fb3",
             "afterNotSignInPageId": "9f9af3b0-fded-4d4d-854b-31e28e8d9fb3"
         }
+    },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "cee96039-b37a-40eb-98d1-1076d51497e2",
+        "name": "REST API",
+        "designId": "606fc9f7-5f19-4b24-a2fd-6eadd56970c8",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
     }
 }
