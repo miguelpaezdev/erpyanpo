@@ -4,7 +4,9 @@ import { useIconsStore } from '@/pinia/icons';
 
  /* wwFront:start */
 // eslint-disable-next-line no-undef
+import plugin_e93a2dfd_9b19_473e_b445_c666fed4e14a from '@/components/plugins/plugin-e93a2dfd-9b19-473e-b445-c666fed4e14a/src/wwPlugin.js';
 import plugin_832d6f7a_42c3_43f1_a3ce_9a678272f811 from '@/components/plugins/plugin-832d6f7a-42c3-43f1-a3ce-9a678272f811/src/wwPlugin.js';
+import plugin_66a79c98_70e7_4bc4_8859_20776b024ec2 from '@/components/plugins/plugin-66a79c98-70e7-4bc4-8859-20776b024ec2/src/wwPlugin.js';
 import plugin_9c40819b_4a8f_468f_9ba5_4b9699f3361f from '@/components/plugins/plugin-9c40819b-4a8f-468f-9ba5-4b9699f3361f/src/wwPlugin.js';
 /* wwFront:end */
 
@@ -47,7 +49,9 @@ export default {
 
         /* wwFront:start */
         // eslint-disable-next-line no-undef
-        wwLib.wwPluginHelper.registerPlugin('plugin-832d6f7a-42c3-43f1-a3ce-9a678272f811', plugin_832d6f7a_42c3_43f1_a3ce_9a678272f811);
+        wwLib.wwPluginHelper.registerPlugin('plugin-e93a2dfd-9b19-473e-b445-c666fed4e14a', plugin_e93a2dfd_9b19_473e_b445_c666fed4e14a);
+wwLib.wwPluginHelper.registerPlugin('plugin-832d6f7a-42c3-43f1-a3ce-9a678272f811', plugin_832d6f7a_42c3_43f1_a3ce_9a678272f811);
+wwLib.wwPluginHelper.registerPlugin('plugin-66a79c98-70e7-4bc4-8859-20776b024ec2', plugin_66a79c98_70e7_4bc4_8859_20776b024ec2);
 wwLib.wwPluginHelper.registerPlugin('plugin-9c40819b-4a8f-468f-9ba5-4b9699f3361f', plugin_9c40819b_4a8f_468f_9ba5_4b9699f3361f);
         /* wwFront:end */
 
