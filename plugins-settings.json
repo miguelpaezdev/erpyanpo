@@ -20,8 +20,15 @@
         "pluginId": "66a79c98-70e7-4bc4-8859-20776b024ec2",
         "publicData": {}
     },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "cee96039-b37a-40eb-98d1-1076d51497e2",
+        "name": "REST API",
+        "designId": "606fc9f7-5f19-4b24-a2fd-6eadd56970c8",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
     "e93a2dfd-9b19-473e-b445-c666fed4e14a": {
-        "id": "62d3c292-69be-4c21-8390-6a33d65c4cf2",
+        "id": "f1c21c66-cc00-4f23-b1f5-5bf9d9234847",
         "name": "Auth0",
         "designId": "606fc9f7-5f19-4b24-a2fd-6eadd56970c8",
         "pluginId": "e93a2dfd-9b19-473e-b445-c666fed4e14a",
@@ -29,17 +36,9 @@
             "domain": "dev-u2qudi7buscjyl33.us.auth0.com",
             "M2MClientId": "DUNYanliEBVq7E5bwsqijJI2bgsmoojm",
             "SPAClientId": "kILuY0j9yWYSvhwfD8v0DfxTEGCGErfN",
-            "customDomain": "",
             "afterSignInPageId": "fe51eb60-cd78-469a-90df-b680d7a030f5",
             "afterForbiddenPageId": "9f9af3b0-fded-4d4d-854b-31e28e8d9fb3",
             "afterNotSignInPageId": "9f9af3b0-fded-4d4d-854b-31e28e8d9fb3"
         }
-    },
-    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
-        "id": "cee96039-b37a-40eb-98d1-1076d51497e2",
-        "name": "REST API",
-        "designId": "606fc9f7-5f19-4b24-a2fd-6eadd56970c8",
-        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
-        "publicData": {}
     }
 }
