@@ -29,6 +29,7 @@
             "domain": "dev-u2qudi7buscjyl33.us.auth0.com",
             "M2MClientId": "DUNYanliEBVq7E5bwsqijJI2bgsmoojm",
             "SPAClientId": "kILuY0j9yWYSvhwfD8v0DfxTEGCGErfN",
+            "customDomain": "erpyanpo.vercel.app/",
             "afterSignInPageId": "fe51eb60-cd78-469a-90df-b680d7a030f5",
             "afterForbiddenPageId": "9f9af3b0-fded-4d4d-854b-31e28e8d9fb3",
             "afterNotSignInPageId": "9f9af3b0-fded-4d4d-854b-31e28e8d9fb3"
